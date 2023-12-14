@@ -1,0 +1,101 @@
+Nama,Tahun,Universe,Pendapatan,Biaya_Produksi,Durasi,IMDB_Score,Rotten_Score
+Avengers: Endgame,2019,Marvel,2797.08,356,181,8.04,94
+Spider-Man: No Way Home,2021,Marvel,1327.06,200,148,8.09,94
+The Dark Knight,2008,DC Extended Universe,1005.00,185,152,9.00,94
+Spider-Man: Far From Home,2019,Marvel,1131.09,160,129,7.05,90
+Black Panther,2018,Marvel,1346.09,200,134,7.03,96
+Spider-Man: Homecoming,2017,Marvel,880.02,175,133,7.04,92
+The Avengers,2012,Marvel,1519.06,220,143,8.00,91
+Avengers: Infinity War,2018,Marvel,2048.04,321,149,8.04,85
+Iron Man 3,2013,Marvel,1214.08,200,130,7.02,79
+Captain America: Civil War,2016,Marvel,1153.03,250,147,7.08,91
+Spider-Man 2,2004,Marvel,783.08,200,127,7.03,93
+The Dark Knight Rises,2012,DC Extended Universe,1081.00,300,165,8.04,87
+Spider-Man,2002,Marvel,821.07,139,121,7.03,90
+Deadpool 2,2018,Marvel,785.00,110,119,7.07,84
+Guardians of the Galaxy Vol. 2,2017,Marvel,863.08,200,136,7.06,84
+Thor: Ragnarok,2017,Marvel,854.00,180,130,7.09,93
+Wonder Woman,2017,DC Extended Universe,821.08,149,141,7.04,93
+Captain Marvel,2019,Marvel,1128.03,152,123,6.09,78
+Iron Man,2008,Marvel,585.02,140,126,7.09,94
+Batman v Superman: Dawn of Justice,2016,DC Extended Universe,873.06,250,151,6.04,28
+The Amazing Spider-Man,2012,Marvel,757.09,230,136,6.09,72
+X-Men: Days of Future Past,2014,Marvel,747.09,200,131,8.00,90
+X-Men: Apocalypse,2016,Marvel,543.09,178,144,6.09,47
+Shazam!,2019,DC Extended Universe,365.97,100,132,7.00,90
+Doctor Strange,2016,Marvel,677.07,165,115,7.05,89
+Iron Man 2,2010,Marvel,623.09,200,124,7.00,73
+The Amazing Spider-Man 2,2014,Marvel,709.00,293,142,6.06,52
+X-Men: First Class,2011,Marvel,353.06,160,132,7.07,86
+Thor,2011,Marvel,449.03,150,115,7.00,77
+Joker,2019,DC Extended Universe,1074.25,55,122,8.40,68
+Batman Begins,2005,DC Extended Universe,374.02,150,140,8.02,84
+X2: X-Men United,2003,Marvel,407.07,110,134,7.00,85
+X-Men: The Last Stand,2006,Marvel,459.04,210,104,6.07,58
+Man of Steel,2013,DC Extended Universe,668.00,225,143,7.00,56
+Batman Returns,1992,DC Extended Universe,266.08,80,126,7.00,78
+X-Men Origins: Wolverine,2009,Marvel,373.01,150,107,6.06,38
+Batman Forever,1995,DC Extended Universe,336.05,100,121,5.04,39
+Superman Returns,2006,DC Extended Universe,391.01,270,154,6.00,75
+X-Men: Apocalypse,2016,Marvel,543.09,178,144,6.09,47
+Batman & Robin,1997,DC Extended Universe,238.02,125,125,3.07,11
+The Wolverine,2013,Marvel,414.08,120,126,6.07,69
+X-Men: The Last Stand,2006,Marvel,459.04,210,104,6.07,58
+Batman Returns,1992,DC Extended Universe,266.08,80,126,7.00,78
+X-Men Origins: Wolverine,2009,Marvel,373.01,150,107,6.06,38
+Batman Forever,1995,DC Extended Universe,336.05,100,121,5.04,39
+Superman Returns,2006,DC Extended Universe,391.01,270,154,6.00,75
+X-Men: Apocalypse,2016,Marvel,543.09,178,144,6.09,47
+Batman & Robin,1997,DC Extended Universe,238.02,125,125,3.07,11
+The Wolverine,2013,Marvel,414.08,120,126,6.07,69
+X-Men: The Last Stand,2006,Marvel,459.04,210,104,6.07,58
+Batman Returns,1992,DC Extended Universe,266.08,80,126,7.00,78
+X-Men Origins: Wolverine,2009,Marvel,373.01,150,107,6.06,38
+Batman Forever,1995,DC Extended Universe,336.05,100,121,5.04,39
+Superman Returns,2006,DC Extended Universe,391.01,270,154,6.00,75
+X-Men: Apocalypse,2016,Marvel,543.09,178,144,6.09,47
+Batman & Robin,1997,DC Extended Universe,238.02,125,125,3.07,11
+The Wolverine,2013,Marvel,414.08,120,126,6.07,69
+X-Men: The Last Stand,2006,Marvel,459.04,210,104,6.07,58
+Batman Returns,1992,DC Extended Universe,266.08,80,126,7.00,78
+X-Men Origins: Wolverine,2009,Marvel,373.01,150,107,6.06,38
+Captain America: The Winter Soldier,2014,Marvel,714.03,170,136,7.07,90
+Ant-Man and The Wasp,2018,Marvel,622.07,162,118,7.01,87
+Shang-Chi and the Legend of the Ten Rings,2021,Marvel,2245.00,150,132,7.09,92
+Suicide Squad,2016,DC Extended Universe,746.08,175,123,6.00,72
+Birds of Prey,2020,DC Extended Universe,201.09,82,109,6.01,78
+X-Men: Dark Phoenix,2019,Marvel,252.04,200,113,5.08,23
+X-Men: Days of Future Past,2014,Marvel,747.09,200,131,8.00,90
+X-Men: Apocalypse,2016,Marvel,543.09,178,144,6.09,47
+X-Men: First Class,2011,Marvel,353.06,160,132,7.07,86
+X2: X-Men United,2003,Marvel,407.07,110,134,7.04,85
+Logan,2017,Marvel,619.00,97,137,8.01,93
+Blade,1998,Marvel,131.02,45,120,7.01,55
+Blade II,2002,Marvel,155.00,54,117,6.07,57
+Blade: Trinity,2004,Marvel,128.09,65,113,5.09,26
+Ghost Rider,2007,Marvel,228.07,110,114,5.02,26
+The Suicide Squad,2021,DC Extended Universe,167,185,132,7.30,91
+Venom,2018,Marvel,856.09,100,112,6.70,30
+Spider-Man 3,2007,Marvel,894.09,258,139,6.02,63
+Spider-Man: Into the Spider-Verse,2018,Marvel,375.05,90,117,8.04,97
+Aquaman,2018,DC Extended Universe,1148.09,160,143,6.09,65
+Wonder Woman 1984,2020,DC Extended Universe,166.05,200,151,5.04,59
+Guardians of the Galaxy,2014,Marvel,773.03,232,121,8.00,91
+Eternals,2021,Marvel,386,200,157,6.50,47
+Thor: The Dark World,2013,Marvel,644.78,170,112,6.90,66
+Avengers: Age of Ultron,2015,Marvel,1402.81,365,141,7.30,75
+Ant-Man,2015,Marvel,519.31,130,117,7.30,82
+Deadpool,2016,Marvel,783.11,58,108,8.00,85
+Batman: The Killing Joke,2016,DC Extended Universe,4.36,3.5,76,6.40,39
+Green Lantern,2011,DC Extended Universe,219.86,200,114,5.50,26
+Justice League,2017,DC Extended Universe,657.92,300,120,6.10,40
+The Mask of Zorro,1998,Marvel,250.03,95,136,6.07,83
+The Legend of Zorro,2005,Marvel,142.04,75,129,5.09,26
+X-Men: The New Mutants,2020,Marvel,46.98,67,94,5.30,35
+Daredevil,2003,Marvel,179.2,78,103,5.30,44
+Hulk,2003,Marvel,245.4,137,138,5.60,62
+The Punisher,2004,Marvel,54.7,33,124,6.40,29
+Fantastic Four,2005,Marvel,330.6,100,106,5.70,27
+The Incredible Hulk,2008,Marvel,263.4,150,112,6.70,67
+Fantastic Four: Rise of the Silver Surfer,2007,Marvel,301.9,130,92,5.63,37
+Ghost Rider: Spirit of Vengeance,2011,Marvel,132.6,75,95,4.31,17
